@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-
+API_URL = "https://student-performance-insights.onrender.com/predict"
 st.set_page_config(
     page_title="Student Performance Predictor",
     layout="centered"
