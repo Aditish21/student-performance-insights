@@ -154,9 +154,12 @@ The frontend communicates with the backend via HTTP requests, following a **real
 
 ## 🚀 Deployment
 
-The application is deployed as a **live web service** using a cloud platform (e.g., Render / Hugging Face Spaces).
+The application is deployed as a **live web service** using a cloud platform .
 
-✔ Publicly accessible link
+✔ Backend (FastAPI on Render):
+https://student-performance-insights.onrender.com/
+✔Frontend (Streamlit Community Cloud):
+https://student-performance-insights-wwkdj8lq6nappkt9ksuhj2y.streamlit.app/
 ✔ End-to-end ML system
 ✔ Production-style deployment
 
